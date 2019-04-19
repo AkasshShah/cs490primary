@@ -1,0 +1,4 @@
+1 Question must be worth 15 points minimum
++5 points for naming function correctly
++5 points for having correct conditional/loop statements
++5 points for correct return (return matches the test case's return)
